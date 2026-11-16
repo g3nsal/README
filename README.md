@@ -1,1 +1,3 @@
-# README
+# Apunts en forma de web sobre sistemes operatiu.
+---
+Ho completarem...
